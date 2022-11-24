@@ -4,7 +4,7 @@ const ItemListContainer = ( { nombre, tienda }) =>{
 
     return (
 
-        <h1> Bienvenido a mi tienda { nombre } esperamos que consigas todo lo que buscas en { tienda }</h1>
+        <h1> Bienvenido { nombre } esperamos que consigas todo lo que buscas en { tienda }</h1>
         
         
     )
